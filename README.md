@@ -18,14 +18,14 @@ Grid layout formatted (. passable; # blocker):
 .#.
 ~~~~
 
-Grid layout raw indicating **path** (2):
+Grid layout raw indicating **path** (2) to target:
 ~~~~
 010
 222
 012
 ~~~~
 
-Grid layout formatted indicating **path** (*):
+Grid layout formatted indicating **path** (\*) to target:
 ~~~~
 .#.
 ***
